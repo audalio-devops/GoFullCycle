@@ -4,9 +4,9 @@
 
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
-docker run seu-user/fullcycle
+> docker run seu-user/fullcycle
 
-docker run audaliodevops/fullcycle
+> docker run audaliodevops/fullcycle
 
 Temos que ter o seguinte resultado: Full Cycle Rocks!!
 
